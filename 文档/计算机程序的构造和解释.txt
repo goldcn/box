@@ -1,0 +1,6 @@
+https://mitpress.mit.edu/sites/default/files/sicp/index.html
+
+https://zhuanlan.zhihu.com/p/34313034
+https://github.com/DeathKing/Learning-SICP/
+
+http://deathking.github.io/yast-cn/
